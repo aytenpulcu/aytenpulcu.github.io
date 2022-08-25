@@ -1,7 +1,7 @@
 body{
     margin:0;
     padding: 0;
-    background-color: #f6f6f6;    
+    background-color: #eeeeee;    
 }
 a.dropdown-item{
     font-family:'Source Sans Pro Light', sans-serif ;
@@ -49,9 +49,9 @@ p.tag{
     font-variant-caps: all-petite-caps;
 }
 .header{
-    height: 485px;
-    margin-bottom: 4px;
-    background-color: #f3f3f3;
+    height: fit-content;
+    margin-bottom: 20px;
+    background-color: #eeeeee;
     text-align: center;
 }
 
